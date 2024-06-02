@@ -54,12 +54,12 @@
     </div>
 
     <div class="container-fluid">
-        <div class="row mt-3 pt-3">
+        <div class="row ">
             <div class="col-md-6 col-lg-9">
                 <p class="copyright">
                     Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved.</p>
             </div>
-            <div class="col-md-6 col-lg-3 <!--text-md-right-->">
+            <div class="col-md-6 col-lg-3 ">
                 <p class="copyright">This<i class="ion-ios-heart" aria-hidden="true"></i> by <a class="text-white" href="#BafBlueSkySchool" target="_blank">BafBlueSkySchool</a></p>
             </div>
         </div>
