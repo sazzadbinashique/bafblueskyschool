@@ -1,0 +1,11 @@
+https://www.tutsmake.com/laravel-dynamic-dependent-dropdown-using-ajax/
+
+https://www.codecheef.org/article/jquery-ajax-dynamic-dependent-dropdown-in-laravel-7
+
+
+https://makitweb.com/datatables-ajax-pagination-with-search-and-sort-laravel/
+
+https://datatables.net/extensions/fixedheader/examples/options/columnFiltering.html
+
+
+https://stackoverflow.com/questions/30950891/how-to-display-red-borders-on-required-or-invalid-value-input-element-in-chrome

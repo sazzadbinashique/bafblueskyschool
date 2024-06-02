@@ -1,0 +1,307 @@
+@media screen and (min-width:1201px )
+{
+
+}
+
+@media screen and (max-width:1200px)
+{
+
+}
+
+@media  screen and (max-width:1024px )
+{
+    .header-description h4
+    {
+        color: white;
+        font-weight: 600;
+        font-size: 13px;
+        padding: 0;
+        margin: 0;
+        line-height: 101%;
+    }
+    .header-description p {
+        color: white;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+
+    }
+    .logo {
+        width: 77px;
+        display: inline-block;
+    }
+
+    .common-menu {
+        height: 50px;
+    }
+
+    .sub-menu-title h2 {
+        font-size: 12px;
+        padding: 9px 0;
+    }
+    .ache-sub-menu-title h2{
+        padding: 8px;
+    }
+    .sec-con {
+        font-size: 16px;
+    }
+}
+
+@media screen  and (max-width: 480px) {
+    .header-description h4
+    {
+        color: white;
+        font-weight: 600;
+        font-size: 13px;
+        padding: 0;
+        margin: 0;
+        line-height: 101%;
+    }
+    .header-description p {
+        color: white;
+        font-weight: 600;
+        font-size: 12px;
+        padding: 0;
+        margin: 0;
+
+    }
+    .common-menu {
+        height: 50px;
+    }
+
+    .sub-menu-title h2 {
+        font-size: 12px;
+        padding: 9px 0;
+    }
+    .ache-sub-menu-title h2{
+        padding: 8px;
+    }
+    .sec-con {
+        font-size: 16px;
+    }
+
+
+    .search-section {
+        width: 55px;
+        float: left;
+        display: inline-block;
+
+    }
+    .logo {
+        width: 77px;
+        display: inline-block;
+    }
+    .my-link {
+        font-size: 9px;
+        color: #04061f !important;
+        font-weight: 400;
+    }
+    .slider-content-header h2 {
+        color: #fff;
+        font-size: 10px;
+        font-weight: 700;
+        word-spacing: 8px;
+    }
+    .slider-content {
+        height: 100%;
+        position: relative;
+        overflow: hidden;
+    }
+    .content-box-large {
+        padding: 10px 0;
+    }
+    .content-box-small{
+        padding: 10px 0;
+    }
+
+    .home-description h2 {
+        text-transform: uppercase;
+        border-bottom: 2px solid #c7c0c0;
+        margin-bottom: 15px;
+        font-weight: 500;
+        font-size: 15px;
+        color: #1994be;
+  }
+
+
+  .home-content-description {
+    border: 2px solid #c7c0c0;
+    padding: 12px 6px;
+    -webkit-box-shadow: 7px 0px 10px 0 rgb(0 0 0 / 20%);
+    box-shadow: 7px 0px 10px 0 rgb(0 0 0 / 20%);
+    border-radius: 8px;
+    -webkit-transition: all 300ms linear;
+    transition: all 300ms linear;
+}
+
+
+.home-content-description p,.pre{
+    font-size: 12px;
+    line-height: 15px;
+    word-spacing: -1px;
+    color: #000;
+}
+
+.home-team-member img {
+    height: 207px;
+    width: 100%;
+}
+
+.home-team-member-info p {
+    color: #1d1786;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 11px;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+
+.home-team-member-info h6 {
+    color: #1d1786;
+    font-size: 10px;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.banners img {
+    width: 100%;
+    height: 250px;
+    -webkit-box-shadow: 7px 0px 10px 0 rgb(0 0 0 / 20%);
+    box-shadow: 7px 0px 10px 0 rgb(0 0 0 / 20%);
+}
+
+.slider-content-header {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
+
+.main-notice h4 {
+    text-transform: uppercase;
+    border-bottom: 2px solid #c7c0c0;
+    margin: 7px 0;
+    font-weight: 400;
+    font-size: 18px;
+    color: #1994be;
+    padding: 4px 4px;
+}
+.notice-sts {
+    font-size: 11px;
+    line-height: 19px;
+    margin: 1px 3px;
+    word-spacing: 3px;
+    background: #fff;
+    padding: 1px 10px;
+    font-weight: 600;
+    color: #000;
+}
+.para a {
+    font-size: 10px;
+    margin-left: 12px;
+    margin-bottom: 10px;
+}
+.main-notice {
+    background: #fff;
+    margin: 8px 0;
+    -webkit-box-shadow: 7px 0px 10px 0 rgb(0 0 0 / 20%);
+    box-shadow: 7px 0px 10px 0 rgb(0 0 0 / 20%);
+}
+.news-content {
+    background-color: #fff;
+    padding: 9px 3px;
+    -webkit-box-shadow: 0 0 10px rgb(0 0 0 / 20%);
+    box-shadow: 0 0 10px rgb(0 0 0 / 20%);
+    -webkit-transition: all 450ms linear;
+    transition: all 450ms linear;
+    margin-top: 9px;
+    height: 327px;
+}
+.news-content h4 {
+    width: 100%;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 6px;
+    text-align: center;
+    font-weight: 200;
+}
+.news-content a {
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 3px;
+    text-align: center;
+    font-weight: 400;
+}
+}
+@media screen and (min-width:481px) and (max-width:768px)
+{
+    .news-content {
+        background-color: #fff;
+        padding: 36px 2px;
+        -webkit-box-shadow: 0 0 10px rgb(0 0 0 / 20%);
+        box-shadow: 0 0 10px rgb(0 0 0 / 20%);
+        -webkit-transition: all 450ms linear;
+        transition: all 450ms linear;
+        margin-top: 20px;
+        height: 374px;
+    }
+
+    .news-content h4 {
+        width: 100%;
+        display: inline-block;
+        font-size: 12px;
+        margin-top: 9px;
+        text-align: center;
+        font-weight: 400;
+    }
+
+
+}
+@media screen and (max-width:581px){
+
+    .chairman-content p{
+        font-size:15px;
+        padding: 0;
+    }
+    .annual-single-event,.event-content {
+        padding: 0;
+    }
+    .notice-body {
+        padding: 0px 0px;
+    }
+    .portfolio-item {
+        padding: 0;
+    }
+    .college-history p {
+        font-size: 18px;
+        word-spacing: 2px;
+        line-height: 1.4;
+        padding: 0px;
+        padding-top: 10px ;
+    }
+    .we-offer-p{
+        font-size:15px;
+    }
+    .comitee{
+        font-size:16px;
+    }
+    .comitee-p{
+        font-size:14px;
+    }
+
+    .first-member {
+        width: 100%;
+    }
+    .desig {
+        font-size: 16px;
+        line-height: 1.3rem;
+        margin-bottom: 3px;
+    }
+    .profession {
+        font-size: 13px;
+        line-height: 1.3rem;
+    }
+    .dropdown-item{
+        font-size: 12px;
+    }
+}

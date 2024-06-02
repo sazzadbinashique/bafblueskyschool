@@ -1,0 +1,80 @@
+
+@font-face {
+    font-family: 'namebold';
+    font-style: auto;
+    src: url("/fonts/FranklinGothic.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'slidefont';
+    font-style: auto;
+    src: url("/fonts/Exo-VariableFont_wght.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'namenormal';
+    font-style: auto;
+    src: url("/fonts/Montserrat-Light.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat-Regular';
+    font-style: auto;
+    src: url("/fonts/Montserrat-Regular.ttf") format('truetype');
+}
+@font-face {
+    font-family: 'Menubold';
+    font-style: auto;
+    src: url("/fonts/Montserrat-SemiBold.ttf") format('truetype');
+}
+.description-text-large {
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'slidefont', sans-serif;
+    color: #000000;
+}
+.name-text-bold {
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'slidefont', sans-serif;
+    color: #0a001f;
+}
+.name-text-normal {
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'slidefont', sans-serif;
+    color: #0a001f;
+}
+.footer-link-text {
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'slidefont', sans-serif;
+    color: #0a001f;
+}
+.header-slide-font {
+    text-align: justify;
+    font-size: 18px;
+    font-family: 'slidefont', sans-serif;
+    color: #0a001f;
+}
+
+.menu-text-bold {
+    text-align: justify;
+    font-size: 30px;
+    font-family: 'slidefont', sans-serif;
+    color: #0a001f;
+}
+
+.highlight-text {
+     text-align: justify;
+     font-size: 16px;
+     font-family: 'slidefont', sans-serif;
+     color: #0a1b4f;
+ }
+.highlight-text-blue {
+    color: #0c63e4;
+}
+
+
+/* Define the marquee animation */
+@keyframes marquee {
+    0% { transform: translateX(100%); }
+    100% { transform: translateX(-100%); }
+}
